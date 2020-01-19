@@ -1,0 +1,109 @@
+push graphic-context
+ viewbox 0 0 300 300
+ stroke '#CCCCCCCCFFFF'
+ line 0 0 0 300
+ line 0 0 300 0
+ line 10 0 10 300
+ line 0 10 300 10
+ line 20 0 20 300
+ line 0 20 300 20
+ line 30 0 30 300
+ line 0 30 300 30
+ line 40 0 40 300
+ line 0 40 300 40
+ line 50 0 50 300
+ line 0 50 300 50
+ line 60 0 60 300
+ line 0 60 300 60
+ line 70 0 70 300
+ line 0 70 300 70
+ line 80 0 80 300
+ line 0 80 300 80
+ line 90 0 90 300
+ line 0 90 300 90
+ line 100 0 100 300
+ line 0 100 300 100
+ line 110 0 110 300
+ line 0 110 300 110
+ line 120 0 120 300
+ line 0 120 300 120
+ line 130 0 130 300
+ line 0 130 300 130
+ line 140 0 140 300
+ line 0 140 300 140
+ line 150 0 150 300
+ line 0 150 300 150
+ line 160 0 160 300
+ line 0 160 300 160
+ line 170 0 170 300
+ line 0 170 300 170
+ line 180 0 180 300
+ line 0 180 300 180
+ line 190 0 190 300
+ line 0 190 300 190
+ line 200 0 200 300
+ line 0 200 300 200
+ line 210 0 210 300
+ line 0 210 300 210
+ line 220 0 220 300
+ line 0 220 300 220
+ line 230 0 230 300
+ line 0 230 300 230
+ line 240 0 240 300
+ line 0 240 300 240
+ line 250 0 250 300
+ line 0 250 300 250
+ line 260 0 260 300
+ line 0 260 300 260
+ line 270 0 270 300
+ line 0 270 300 270
+ line 280 0 280 300
+ line 0 280 300 280
+ line 290 0 290 300
+ line 0 290 300 290
+ fill '#00000000FFFF'
+ stroke '#FFFF00000000'
+ roundrectangle 15 15 70 70 10 10
+ fill '#00000000FFFF'
+ stroke '#808000000000'
+ stroke-width 4
+ roundrectangle 15 15 70 70 10 10
+ stroke '#000000000000'
+ stroke-width 4
+ fill 'none'
+ bezier 20 20 100 50 50 100 160 160
+ stroke-dasharray 4,3
+ stroke '#FFFF00000000'
+ stroke-width 1
+ line 10 200 54 182
+ stroke-dasharray none
+ stroke '#000000000000'
+ fill '#FFFFFFFF0000'
+ stroke-width 4
+ circle 160 70 200 70
+ stroke '#000000000000'
+ fill '#00000000FFFF'
+ stroke-width 4
+ path 'M160 70v-40a40 40 0 0 0 -40 40z'
+ stroke '#FFFF00000000'
+ fill '#3232CDCD3232'
+ stroke-width 3
+ polygon 160 120 130 190 210 145 110 145 190 190 160 120
+ stroke-width 5
+ fill 'none'
+ stroke '#FFFFFFFF0000'
+ line 200 260 200 200
+ line 200 200 260 200
+ stroke '#FFFF00000000'
+ line 260 200 260 260
+ stroke '#000080800000'
+ line 200 260 260 260
+ font '/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/PerlMagick/demo/Generic.ttf'
+ fill '#000080800000'
+ stroke 'none'
+ font-size 24
+ translate 30 140
+ rotate 45
+ encoding ''
+ text 0 0 'This is a test!'
+pop graphic-context

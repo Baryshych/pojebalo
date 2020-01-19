@@ -1,0 +1,71 @@
+1..1
+Version: ImageMagick 7.0.9-16 Q16 x86_64 2020-01-18 https://imagemagick.org
+Copyright: © 1999-2020 ImageMagick Studio LLC
+
+ImageMagick Validation Suite (ImportExport)
+
+validate the import and export of image pixels:
+  test 0: bgro/Char... pass.
+  test 1: bgro/Double... pass.
+  test 2: bgro/Float... pass.
+  test 3: bgro/Long... pass.
+  test 4: bgro/LongLong... pass.
+  test 5: bgro/Short... pass.
+  test 6: bgrp/Char... pass.
+  test 7: bgrp/Double... pass.
+  test 8: bgrp/Float... pass.
+  test 9: bgrp/Long... pass.
+  test 10: bgrp/LongLong... pass.
+  test 11: bgrp/Short... pass.
+  test 12: bgr/Char... pass.
+  test 13: bgr/Double... pass.
+  test 14: bgr/Float... pass.
+  test 15: bgr/Long... pass.
+  test 16: bgr/LongLong... pass.
+  test 17: bgr/Short... pass.
+  test 18: cmyk/Char... pass.
+  test 19: cmyk/Double... pass.
+  test 20: cmyk/Float... pass.
+  test 21: cmyk/Long... pass.
+  test 22: cmyk/LongLong... pass.
+  test 23: cmyk/Short... pass.
+  test 24: cmy/Char... pass.
+  test 25: cmy/Double... pass.
+  test 26: cmy/Float... pass.
+  test 27: cmy/Long... pass.
+  test 28: cmy/LongLong... pass.
+  test 29: cmy/Short... pass.
+  test 30: i/Char... pass.
+  test 31: i/Double... pass.
+  test 32: i/Float... pass.
+  test 33: i/Long... pass.
+  test 34: i/LongLong... pass.
+  test 35: i/Short... pass.
+  test 36: prgb/Char... pass.
+  test 37: prgb/Double... pass.
+  test 38: prgb/Float... pass.
+  test 39: prgb/Long... pass.
+  test 40: prgb/LongLong... pass.
+  test 41: prgb/Short... pass.
+  test 42: rgba/Char... pass.
+  test 43: rgba/Double... pass.
+  test 44: rgba/Float... pass.
+  test 45: rgba/Long... pass.
+  test 46: rgba/LongLong... pass.
+  test 47: rgba/Short... pass.
+  test 48: rgbo/Char... pass.
+  test 49: rgbo/Double... pass.
+  test 50: rgbo/Float... pass.
+  test 51: rgbo/Long... pass.
+  test 52: rgbo/LongLong... pass.
+  test 53: rgbo/Short... pass.
+  test 54: rgb/Char... pass.
+  test 55: rgb/Double... pass.
+  test 56: rgb/Float... pass.
+  test 57: rgb/Long... pass.
+  test 58: rgb/LongLong... pass.
+  test 59: rgb/Short... pass.
+  summary: 60 subtests; 60 passed; 0 failed.
+validation suite: 60 tests; 60 passed; 0 failed.
+ok
+PASS: tests/validate-import.tap 1

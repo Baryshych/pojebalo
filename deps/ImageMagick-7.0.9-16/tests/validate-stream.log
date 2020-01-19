@@ -1,0 +1,12 @@
+1..1
+Version: ImageMagick 7.0.9-16 Q16 x86_64 2020-01-18 https://imagemagick.org
+Copyright: © 1999-2020 ImageMagick Studio LLC
+
+ImageMagick Validation Suite (Stream)
+
+validate stream command line program:
+  test 0: ... pass.
+  summary: 1 subtests; 1 passed; 0 failed.
+validation suite: 1 tests; 1 passed; 0 failed.
+ok
+PASS: tests/validate-stream.tap 1

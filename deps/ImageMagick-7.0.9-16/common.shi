@@ -1,0 +1,27 @@
+# -*- shell-script -*-
+# Copyright 1999-2020 ImageMagick Studio LLC
+# Definitions of optional features and configuration values for this build.
+# Intended for use by test scripts.
+MAGICK_FEATURES='DPC HDRI Cipher OpenMP'
+top_srcdir='/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16'
+top_builddir='/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16'
+
+set -a
+COMPARE="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick compare"
+COMPOSITE="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick composite"
+CONJURE="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick conjure"
+CONVERT="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick convert"
+DISPLAY="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick display"
+IDENTIFY="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick identify"
+MAGICK="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick"
+MONTAGE="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities/magick montage"
+VALIDATE="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/validate"
+DRAWTEST="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/drawtest"
+WANDTEST="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/wandtest"
+LD_LIBRARY_PATH="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/MagickCore/.libs:/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/MagickWand/.libs:${LD_LIBRARY_PATH}"
+MAGICK_CODER_MODULE_PATH="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/coders"
+MAGICK_CONFIGURE_PATH="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/config:/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/config"
+MAGICK_FILTER_MODULE_PATH="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/filters"
+MAGICK_FONT="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/PerlMagick/demo/Generic.ttf"
+PATH="/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/utilities:/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests:${PATH}"
+set +a

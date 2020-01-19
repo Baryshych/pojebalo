@@ -1,0 +1,49 @@
+1..17
+ok
+PASS: tests/cli-pipe.tap 1
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 2
+-=>/tmp/magick-10978QguwtNujgEkL MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 3
+-=>/tmp/magick-11007Y7rOTxxWZ8OL PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 4
+ok
+PASS: tests/cli-pipe.tap 5
+/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 6
+-=>/tmp/magick-110646lojk7y2Uo2M MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 7
+-=>/tmp/magick-11093LFVkpm9PsryN PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 8
+/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 9
+/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 10
+ok
+PASS: tests/cli-pipe.tap 11
+/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 12
+-=>/tmp/magick-11178ezDca04klYdT PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 13
+fd:5 PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 14
+/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 15
+/DL/Hackathon_2020/deps/ImageMagick-7.0.9-16/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 16
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 17

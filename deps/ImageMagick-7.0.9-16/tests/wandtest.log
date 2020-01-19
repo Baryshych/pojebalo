@@ -1,0 +1,49 @@
+1..1
+Reading images...
+Iterate forward...
+index 0 scene 0
+index 1 scene 1
+index 2 scene 2
+index 3 scene 3
+index 4 scene 4
+Iterate reverse...
+index 4 scene 4
+index 3 scene 3
+index 2 scene 2
+index 1 scene 1
+index 0 scene 0
+Remove scene 1...
+index 0 scene 0
+index 1 scene 2
+index 2 scene 3
+index 3 scene 4
+Insert scene 1 back in sequence...
+index 0 scene 0
+index 1 scene 1
+index 2 scene 2
+index 3 scene 3
+index 4 scene 4
+Set scene 2 to scene 1...
+index 0 scene 0
+index 1 scene 1
+index 2 scene 1
+index 3 scene 3
+index 4 scene 4
+Apply image processing options...
+Utilitize pixel iterator to draw diagonal...
+Write to wandtest_out.miff...
+Change image format from "MIFF" to "GIF"...
+Set delay between frames to 3 seconds...
+Write to wandtest_out.gif...
+Set, list, get, and delete wand option...
+  wand:custom-option
+Set, list, get, and delete wand property...
+  date:create
+  date:modify
+  signature
+  wand:custom-property
+Set, list, get, and remove sRGB color profile...
+  srgb
+Wand tests pass.
+ok
+PASS: tests/wandtest.tap 1
